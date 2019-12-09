@@ -5,4 +5,4 @@
 /vendor/
 
 # php unit test cache
-/.phpunit.result.cache
+*.cache
